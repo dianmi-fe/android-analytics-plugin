@@ -42,7 +42,7 @@ dependencies {
 ```groovy
 android {
     arnoldAnalytics {
-    debug = true
+        debug = true
     }
 }
 ```
