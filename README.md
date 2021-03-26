@@ -33,7 +33,7 @@ apply plugin: 'com.arnold.analytics.android'
 
 dependencies {
     // 添加 Analytics SDK 依赖
-    implementation 'com.arnoldx.ehr:analytics:0.1.1'
+    implementation 'com.arnoldx.ehr:analytics:0.2.0'
 }
 ```
 
