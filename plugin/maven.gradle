@@ -1,0 +1,12 @@
+apply plugin: 'maven'
+
+version='0.0.1'
+group = "com.arnold.analytics.android"
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository(url: uri('../repo'))
+        }
+    }
+}
