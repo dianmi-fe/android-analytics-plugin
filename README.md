@@ -1,3 +1,8 @@
+
+执行/plugin/maven.gradle 中的task:
+```groovy
+uploadArchives
+```
 # 1. 集成 SDK
 ## 1.1. 引入插件
    在 project 级别的 build.gradle 文件中添加 plugin 依赖：
